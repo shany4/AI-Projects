@@ -14,4 +14,3 @@
 
 Submit the code file: `game_agent.py`Submit your analysis as: `heuristic_analysis.pdf`Your analysis should conclude with a comparison of the different heuristics and your reasoning for choosing the heuristic you ultimately use in your submitted agent.
 
-If you encounter questions or issues while using Project Assistant, please refer to the **[FAQ](https://project-assistant.udacity.com/faq)**.
